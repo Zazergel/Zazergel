@@ -1,23 +1,21 @@
-<div id="badges">
+
+<div id="badges", align="right">
 <img src="https://komarev.com/ghpvc/?username=Zazergel&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋
 ### :man_technologist: About Me :
+Йо, меня зовут Ярослав.  
+Я Java разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
-My name is Yaroslav. 
-I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+---
+## :hammer_and_wrench: Languages and Tools:
+<img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk&logoColor=#5382a1" title="Java" alt="Java"/> <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ff9900" title="HTML5" alt="HTML5"/><br>
+<img src="https://img.shields.io/badge/-Intellij_Idea-090909?style=for-the-badge&logo=intellij-idea&logoColor=#5382a1" title="Java" alt="Java"/> <img src="https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=Apache-Maven&logoColor=2196f3" title="Maven" alt="Maven"/> <img src="https://img.shields.io/badge/-Spring_Boot-090909?style=for-the-badge&logo=Spring-Boot&logoColor=008000" title="Spring_Boot" alt="Spring_Boot"/> <img src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2196f3" title="Docker" alt="Docker"/>
 
-### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML%" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-</div>
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zazergel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## :incoming_envelope: Social:
+<a href="https://vk.com/arxes"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3" title="Vkontakte" alt="Vkontakte"/></a> <a href="https://t.me/arxes"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" title="Telegram" alt="Telegram"/></a> <a href="https://www.instagram.com/arxes"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" title="Instagram" alt="Instagram"/></a> <a href="https://www.sololearn.com/profile/17851647"><img src="https://img.shields.io/badge/-Sololearn-090909?style=for-the-badge&logo=Sololearn&logoColor=ffffff" title="Sololearn" alt="Sololearn"/></a>
+
+
 
