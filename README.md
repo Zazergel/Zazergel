@@ -9,7 +9,7 @@
 
 ---
 ## :hammer_and_wrench: Languages and Tools:
-<img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk&logoColor=#5382a1" title="Java" alt="Java"/> <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ff9900" title="HTML5" alt="HTML5"/><br>
+<img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk&logoColor=#5382a1" title="Java" alt="Java"/> <img src="https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql&logoColor=#5382a1" title="PostgreSQL" alt="SQL"/> <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ff9900" title="HTML5" alt="HTML5"/><br>
 <img src="https://img.shields.io/badge/-Intellij_Idea-090909?style=for-the-badge&logo=intellij-idea&logoColor=#5382a1" title="Intellij_Idea" alt="Intellij_Idea"/> <img src="https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=Apache-Maven&logoColor=2196f3" title="Maven" alt="Maven"/> <img src="https://img.shields.io/badge/-Spring_Boot-090909?style=for-the-badge&logo=Spring-Boot&logoColor=008000" title="Spring_Boot" alt="Spring_Boot"/> <img src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=2196f3" title="Docker" alt="Docker"/>
 
 
