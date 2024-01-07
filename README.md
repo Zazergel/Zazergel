@@ -10,8 +10,9 @@
 
 ---
 :wave: Привет, меня зовут Ярослав. <br>
-:page_facing_up: Окончил Яндекс Практикум по специальности Java разработчик в 2023 году.<br>
-:pencil2: Сейчас работаю над развитием функционала проекта [Catsgram](https://github.com/Zazergel/catsgram "Catsgram")
+:page_facing_up: Окончил Яндекс Практикум по специальности Java разработчик.<br>
+:pencil2: Сейчас работаю над развитием проекта [Catsgram](https://github.com/Zazergel/catsgram "Catsgram").<br>
+:suspect: Также стараюсь профессионально прокачиваться на Codewars!
 
 ---
 
