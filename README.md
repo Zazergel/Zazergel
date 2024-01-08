@@ -12,7 +12,7 @@
 :wave: Привет, меня зовут Ярослав. <br>
 :page_facing_up: Окончил Яндекс Практикум по специальности Java разработчик.<br>
 :pencil2: Сейчас работаю над развитием проекта [Catsgram](https://github.com/Zazergel/catsgram "Catsgram").<br>
-:suspect: Также стараюсь профессионально прокачиваться на Codewars!
+:suspect: Также стараюсь профессионально прокачиваться на [Codewars](https://www.codewars.com/users/Zazergel)!
 
 ---
 
@@ -28,6 +28,3 @@
 &nbsp;
 <a href="https://javarush.com/users/3077417"><img src="https://img.shields.io/badge/-JavaRush-090909?style=for-the-badge&logo=Fireship&logoColor=d77d31" title="Javarush" alt="Javarush"/>
 </p>
-
-
-
