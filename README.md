@@ -11,7 +11,7 @@
 ---
 :wave: Привет, меня зовут Ярослав. <br>
 :page_facing_up: Я Java разработчик.<br>
-:pencil2: Сейчас работаю над проектом [BJ-tgbot](https://github.com/Zazergel/bj-tgbot "BJ-tgbot").<br>
+:pencil2: Сейчас работаю над проектом [BJ-tgbot](https://github.com/Zazergel/bjbot "BJbot").<br>
 :suspect: Также стараюсь профессионально прокачиваться на [Codewars](https://www.codewars.com/users/Zazergel)!
 
 ---
