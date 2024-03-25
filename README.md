@@ -18,7 +18,7 @@
 
 ## :hammer_and_wrench: Languages and Tools:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,postgres,html,git,github,idea,spring,maven,docker,postman&theme=dark"/> <br> </p>
+<img src="https://skillicons.dev/icons?i=java,postgres,kafka,git,idea,spring,maven,docker,postman&theme=dark"/> <br> </p>
 
 ## :hocho: Track Record:
 <p align="center">
