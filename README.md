@@ -15,7 +15,7 @@
 
 ## :hammer_and_wrench: Languages and Tools:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,postgres,kafka,git,idea,spring,maven,docker,postman&theme=dark"/> <img src='https://i.postimg.cc/dQX13sSt/Jira-icon-small.png' width="62" height="48" border='0' alt='Jira'/> <br> </p>
+<img src="https://skillicons.dev/icons?i=java,postgres,linux,kafka,git,idea,spring,maven,docker,postman&theme=dark"/> <img src='https://i.postimg.cc/dQX13sSt/Jira-icon-small.png' width="62" height="48" border='0' alt='Jira'/> <br> </p>
 
 ## :hocho: Track Record:
 <p align="center">
