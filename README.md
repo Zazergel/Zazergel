@@ -7,8 +7,8 @@
 
 ---
 :wave: Привет, меня зовут Ярослав. <br>
-:page_facing_up: Я Java разработчик.<br>
-:pencil2: Сейчас работаю над проектом телеграм бота - помощника.<br>
+:page_facing_up: Я Java разработчик & администратор Jira.<br>
+:pencil2: Помогаю бизнесу с их проектами на продуктах Atlassian.<br>
 :suspect: Также стараюсь профессионально прокачиваться на [Codewars](https://www.codewars.com/users/Zazergel)!
 
 ---
