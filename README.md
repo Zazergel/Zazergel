@@ -7,7 +7,7 @@
 
 ---
 :wave: Привет, меня зовут Ярослав. <br>
-:page_facing_up: Я Java разработчик & администратор Jira.<br>
+:page_facing_up: Я Java разработчик & Jira администратор.<br>
 :pencil2: Помогаю бизнесу с их проектами на продуктах Atlassian.<br>
 :suspect: Также стараюсь профессионально прокачиваться на [Codewars](https://www.codewars.com/users/Zazergel)!
 
