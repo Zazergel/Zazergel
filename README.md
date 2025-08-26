@@ -22,8 +22,4 @@
 ## :hocho: Track Record:
 <p align="center">
 <a href="https://www.codewars.com/users/Zazergel"><img src="https://www.codewars.com/users/Zazergel/badges/large"/></a> <br>
-<a href="https://www.sololearn.com/profile/17851647"><img src="https://img.shields.io/badge/-Sololearn-090909?style=for-the-badge&logo=Sololearn&logoColor=ffffff" title="Sololearn" alt="Sololearn"/></a>
-&nbsp;
-&nbsp;
-<a href="https://javarush.com/users/3077417"><img src="https://img.shields.io/badge/-JavaRush-090909?style=for-the-badge&logo=Fireship&logoColor=d77d31" title="Javarush" alt="Javarush"/>
 </p>
