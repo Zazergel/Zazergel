@@ -7,9 +7,8 @@
 
 ---
 :wave: Привет, меня зовут Ярослав. <br>
-:page_facing_up: Я Java разработчик<br>
+:page_facing_up: Я Java разработчик <i>(И немного devops)</i><br>
 :pencil2: Помогаю бизнесу с их проектами.<br>
-:suspect: Также стараюсь профессионально прокачиваться на [Codewars](https://www.codewars.com/users/Zazergel)!
 
 ---
 
